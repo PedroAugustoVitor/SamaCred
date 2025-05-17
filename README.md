@@ -28,5 +28,6 @@ npm run dev
 npm run build
 ```
 # SamaCred
-
-# git subtree push --prefix dist origin gh-pages
+```sh
+ git subtree push --prefix dist origin gh-pages
+```
